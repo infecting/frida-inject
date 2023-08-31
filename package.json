@@ -5,12 +5,12 @@
   "author": "FreehuntX",
   "main": "./src/index.js",
   "dependencies": {
-    "@babel/core": "^7.12.3",
-    "@babel/preset-env": "^7.12.1",
-    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@babel/core": "^7.22.11",
+    "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
+    "@babel/preset-env": "^7.22.14",
     "babelify": "^10.0.0",
     "browserify": "^17.0.0",
-    "frida": "^14.0.8"
+    "frida": "^16.1.4"
   },
   "files": [
     "src"
